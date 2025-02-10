@@ -1,0 +1,2 @@
+# Unexpected Output due to Type Coercion in Javascript
+This code demonstrates a common error in JavaScript caused by type coercion. When adding a number and a string, JavaScript performs string concatenation instead of numerical addition, leading to unexpected results. The solution involves explicit type conversion to ensure numerical addition.
